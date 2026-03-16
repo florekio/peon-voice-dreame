@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts
+voice.tar.gz
+*.tar.gz
+
+# Backup originals (large, downloadable via script)
+originals/
+
+# Peon sound files (copyrighted by Blizzard — download separately)
+sounds/*.mp3
+sounds/*.wav
+sounds/*.ogg
+sounds/*.flac
+sounds/mapped/
+
+# Dreame cloud session (contains auth tokens)
+.dreame_session.json
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
