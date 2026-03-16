@@ -1,4 +1,5 @@
-# peon-dreame
+# Peon Voice Loader for the Dreame X50 Ultra
+![Image](https://github.com/user-attachments/assets/9626010a-8e0f-4b70-85af-14c568c0a788)
 
 Custom sound loader for the **Dreame X50 Ultra** robot vacuum. Replace any of the ~190 built-in sounds (startup chime, cleaning announcements, error alerts, battery warnings, etc.) with your own audio files — pushed over your local network. No rooting, no Home Assistant, no cloud flashing required.
 
